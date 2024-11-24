@@ -44,12 +44,12 @@ const MySkills = () => {
   ];
 
   const iconMap = {
-    Wordpress: <FaWordpress className="text-3xl text-main-color" />,
-    HTML: <FaHtml5 className="text-3xl text-main-color" />,
-    CSS: <FaCss3 className="text-3xl text-main-color" />,
-    Angular: <FaAngular className="text-3xl text-main-color" />,
-    JavaScript: <FaJsSquare className="text-3xl text-main-color" />,
-    illustrator: <FaMagic className="text-3xl text-main-color" />,
+    Wordpress: <FaWordpress className="text-3xl" />,
+    HTML: <FaHtml5 className="text-3xl" />,
+    CSS: <FaCss3 className="text-3xl" />,
+    Angular: <FaAngular className="text-3xl" />,
+    JavaScript: <FaJsSquare className="text-3xl" />,
+    illustrator: <FaMagic className="text-3xl" />,
   };
   const t = useTranslations("Skills");
   return (
