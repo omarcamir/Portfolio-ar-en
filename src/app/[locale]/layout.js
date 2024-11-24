@@ -36,7 +36,7 @@ export default function RootLayout({ children, params: { locale } }) {
         } antialiased bg-overlay-bg-1 text-white-color min-h-screen flex flex-col`}
       >
         <NavBar locale={locale} />
-        <main className="flex-grow container mx-auto py-10">
+        <main className="flex-grow">
           {children}
         </main>
         <Footer locale={locale} />

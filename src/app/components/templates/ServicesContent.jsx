@@ -4,7 +4,7 @@ import person from '../../../assets/images/person3.webp'
 
 const ServicesContent = () => {
   return (
-    <div>
+    <div className="container mx-auto py-10">
     <PageHeader page={"Services"} imgSrc={person} />
 
     </div>
