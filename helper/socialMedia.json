@@ -1,0 +1,24 @@
+{
+  "socialMediaLinks": [
+    {
+      "id": 1,
+      "name": "facebook",
+      "link": "https://www.facebook.com/"
+    },
+    {
+      "id": 2,
+      "name": "instagram",
+      "link": "https://www.instagram.com/"
+    },
+    {
+      "id": 3,
+      "name": "twitter",
+      "link": "https://www.twitter.com/"
+    },
+    {
+      "id": 4,
+      "name": "youtube",
+      "link": "https://www.youtube.com/"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "icon": "pc",
+      "titleA": "تصميم المواقع",
+      "titleE": "Website Design",
+      "textA": "لوريم إيبسوم هو لوريم إيبسوم لكن لور مايوريوم إيبسوم دولور سيت أميت، كونسكتتور",
+      "textE": "Lorem Ipsum is Lorem Ipsum but Lore maiorem ipsum dolor sit amet, consectetur"
+    },
+    {
+      "id": 2,
+      "icon": "art",
+      "titleA": "تصميم التطبيقات",
+      "titleE": "Apps Design",
+      "textA": "لوريم إيبسوم هو لوريم إيبسوم لكن لور مايوريوم إيبسوم دولور سيت أميت، كونسكتتور",
+      "textE": "Lorem Ipsum is Lorem Ipsum but Lore maiorem ipsum dolor sit amet, consectetur"
+    },
+    {
+      "id": 3,
+      "icon": "img",
+      "titleA": "تصميم واجهة المستخدم/تجربة المستخدم",
+      "titleE": "UI/UX Design",
+      "textA": "لوريم إيبسوم هو لوريم إيبسوم لكن لور مايوريوم إيبسوم دولور سيت أميت، كونسكتتور",
+      "textE": "Lorem Ipsum is Lorem Ipsum but Lore maiorem ipsum dolor sit amet, consectetur"
+    },
+    {
+      "id": 4,
+      "icon": "lamp",
+      "titleA": "تصميم الشعار",
+      "titleE": "Logo Design",
+      "textA": "لوريم إيبسوم هو لوريم إيبسوم لكن لور مايوريوم إيبسوم دولور سيت أميت، كونسكتتور",
+      "textE": "Lorem Ipsum is Lorem Ipsum but Lore maiorem ipsum dolor sit amet, consectetur"
+    }
+  ]
+}

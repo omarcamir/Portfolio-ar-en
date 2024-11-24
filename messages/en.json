@@ -1,6 +1,36 @@
 {
-    "home":{
-        "title":"Home",
-        "content":"Welcome to the home page!"
+  "home": {
+    "title": "Home",
+    "content": "Welcome to the home page!",
+    "Introducing": {
+      "title": "Introducing",
+      "description": "I'M BRANT CONNOR",
+      "subtitle": "Better Design for your Digital Product",
+      "VIEW PORTFOLIO" : "VIEW PORTFOLIO"
+    },
+  "Creative" : "Creative",
+  "Portfolio" : "Portfolio",
+    "Services": {
+      "title": "Services",
+      "headTitle": "Best Services.",
+      "VIEW PORTFOLIO" : "VIEW PORTFOLIO"
     }
+  },
+  "About": {
+    "title": "About",
+    "content": "I'm a web developer provides high-quality services and products to meet your needs."
+  },
+  "Contact": {
+    "title": "Contact",
+    "content": "Don't hesitate to contact me for more information."
+  },
+  "Services": {
+    "title": "Services",
+    "content": "We provide high-quality services and products to meet your needs."
+  },
+  "footer": {
+  "description": "We provide high-quality services and products to meet your needs. Feel free to contact us for more information.",
+  "copyright": "© 2024 Brant. All Rights Reserved."
+}
+
 }

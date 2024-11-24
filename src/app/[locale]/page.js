@@ -1,13 +1,5 @@
-import { useTranslations } from "next-intl";
-import NavBar from "../components/NavBar";
+import HomeContent from "../components/templates/HomeContent";
 
 export default function Home() {
-  const t = useTranslations("home");
-
-  return (
-    <div>
-      <NavBar />
-      <div>{t("title")}</div>
-    </div>
-  );
+  return <HomeContent />;
 }
