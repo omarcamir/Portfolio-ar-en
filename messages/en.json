@@ -28,9 +28,26 @@
     "title": "Services",
     "content": "We provide high-quality services and products to meet your needs."
   },
+  "Skills": {
+    "title": " Skills",
+    "subtitle": "Need You Know",
+    "content": "We have high-quality skills to meet your needs.",
+    "VIEW MORE" : "VIEW MORE"
+  },
+  "Statistics" :{
+    "Project Done" : "Project Done",
+    "Award Won" : "Award Won",
+    "Years Experience" : "Years Experience",
+    "Happy Clients" : "Happy Clients"
+  },
   "footer": {
   "description": "We provide high-quality services and products to meet your needs. Feel free to contact us for more information.",
   "copyright": "© 2024 Brant. All Rights Reserved."
+},
+"qoute": {
+  "content": "We're always looking for new ideas and opportunities to improve our products and services. Our products and services are designed to meet the needs of our customers. For more information, please contact us.",
+  "name": "Brant",
+  "major": "Web Developer"
 }
 
 }

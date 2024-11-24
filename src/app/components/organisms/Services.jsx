@@ -11,7 +11,7 @@ const Services = () => {
   const currentLocale = cookieStore.get('NEXT_LOCALE')?.value || 'en'; // Default to 'en' if cookie not found
   
   return (
-    <div className="relative">
+    <div className="relative container mx-auto py-10">
       <div className="z-0">
         <BackgroundWord
           position="top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%]"
