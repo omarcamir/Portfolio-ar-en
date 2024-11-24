@@ -9,10 +9,10 @@ import personImg from "../../../assets/images/person.webp";
 const Introducing = () => {
   const t = useTranslations("home");
   return (
-    <div className="relative">
+    <div className="relative container mx-auto py-10">
       <div className="z-0">
         <BackgroundWord
-          position="top-[-22%] md:top-[-10%] left-2 md:left-10"
+          position="top-[-15%] md:top-[-10%] left-2 md:left-10"
           word={t("Creative")}
         />
         <BackgroundWord
@@ -34,7 +34,7 @@ const Introducing = () => {
           <p className="text-body text-text-color break-words mb-5">
             {t("Introducing.subtitle")}
           </p>
-          <MainButton title={t("Introducing.VIEW PORTFOLIO")} path={`/portfolio`} />
+          <MainButton title={t("Introducing.VIEW PORTFOLIO")} path={`/about`} />
         </div>
         <div className="col-span-1 flex justify-center items-center gap-5">
           <div className="w-full h-[400px] md:h-[600px]  ">
