@@ -7,8 +7,8 @@ import SocialMedia from "../molecules/SocialMedia";
 const Footer = ({ locale }) => {
   const t = useTranslations("footer");
   return (
-    <div className="container mx-auto py-10 ">
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+    <div className=" py-10 container mx-auto">
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-6 ">
         <div className="col-span-1">
           <Logo />
           <p className="mt-4">{t("description")}</p>
