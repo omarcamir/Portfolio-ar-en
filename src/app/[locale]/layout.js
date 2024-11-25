@@ -21,15 +21,15 @@ export async function generateMetadata({ locale }) {
   return {
     title: locale === "ar" ? "الصفحة الرئيسية" : "Home Page",
     description: locale === "ar" ? "مرحبا بك في برانت" : "Welcome to Brant",
-    icons: {
-      icon: "/favicon.ico",
-    },
   };
 }
 
 export default function RootLayout({ children, params: { locale } }) {
   return (
     <html lang={locale} dir={locale === "ar" ? "rtl" : "ltr"}>
+      <head>
+      <link rel="icon" href="/favicon.ico" sizes="any" />
+      </head>
       <body
         className={`${
           locale === "ar" ? NotoSansArabic.variable : raleway.variable
